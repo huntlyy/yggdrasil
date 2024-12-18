@@ -7,7 +7,7 @@
 
 ### Statistics on GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yggrasil&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 ### My technology stack
 
