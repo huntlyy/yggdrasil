@@ -34,7 +34,11 @@ const Yggdrasil: IUser = {
     description: 'Open for relocation'
   },
 };
-```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huntlyy&theme=dark&hide_border=true)](https://github.com/huntlyy)
+```
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yggdrasil)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/huntlyy)
+<br>
 [![CodeWars user yggdrasil](https://www.codewars.com/users/huntley81/badges/large)](https://www.codewars.com/users/huntley81)
