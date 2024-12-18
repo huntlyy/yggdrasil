@@ -1,6 +1,6 @@
 <img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
 
-## FullStack Developer
+## Frontend Developer
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=My+name+is+Dmitry;I'm+a+Frontend+Developer+from+Rostov" alt="Typing SVG" /></a>
 <br>
