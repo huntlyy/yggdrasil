@@ -36,5 +36,5 @@ const Yggdrasil: IUser = {
 };
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaymONT-Up&theme=dark&hide_border=true)](https://github.com/huntlyy)
-[![CodeWars user yggdrasil](https://www.codewars.com/users/Raymont/badges/large)](https://www.codewars.com/users/huntley81)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yggdrasil&theme=dark&hide_border=true)](https://github.com/huntlyy)
+[![CodeWars user yggdrasil](https://www.codewars.com/users/Yggrasil/badges/large)](https://www.codewars.com/users/huntley81)
